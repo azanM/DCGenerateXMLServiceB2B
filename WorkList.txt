@@ -1,0 +1,31 @@
+
+naik ke production
+-backup database
+-alter store procedure
+
+1. stpBarangIsExist
+2. stpBarangInsert
+3. spUploadCheck
+4. usp_GetTipeDocByParam
+5. usp_updateTableUploadCabang
+6. stpUpdateStatusPenerimaanDetail
+7. stpPenerimaanInsert
+8. stppenerimaandetailinsert
+
+-modul Pemindahan
+
+-alter store procedure
+
+1. GenerateNoPemindahan
+2. spPemindahanInsert
+3. sp_getlistnomordus
+4. stpPemindahanDetailInsert
+5. stpPemindahanDetailSelect
+6. stpStockUpdateSelectById
+7. stpStockDetailInsert
+8. stpUpdateStockUpdateByKode
+
+
+1. alter procedure spUploadCheck
+
+
